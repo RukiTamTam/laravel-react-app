@@ -1,0 +1,10 @@
+.form {
+    display: grid;
+    gap: 8px;
+
+    &__input-field label {
+        display: block;
+        color: white;
+        font-weight: 600;
+    }
+}
